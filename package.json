@@ -30,7 +30,7 @@
     "*.{js,ts,vue}": "eslint --cache --fix"
   },
   "devDependencies": {
-    "@types/electron-devtools-installer": "2.2.0",
+    "@types/electron-devtools-installer": "2.2.2",
     "@typescript-eslint/eslint-plugin": "4.30.0",
     "@vitejs/plugin-vue": "1.6.0",
     "cross-env": "7.0.3",
